@@ -1,0 +1,8 @@
+a{
+    text-decoration: none;
+    color: coral;
+}
+a:hover{
+    color: chartreuse;
+}
+
